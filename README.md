@@ -1,5 +1,5 @@
 # Autonomous-driving-competition
-<img width="80%" src="https://user-images.githubusercontent.com/76892271/199282361-dfb338f1-7d5e-4e4b-8e4b-de44236965df.png"/>
+<img width="80%" src="https://user-images.githubusercontent.com/76892271/199282659-9d9ade16-5aeb-4005-8102-440a74b534bf.png"/>
 
 
 ## Driver Behavioral Cloning
