@@ -5,8 +5,8 @@
 
 ## Driver Behavioral Cloning
 
-<img width="80%" src="https://user-images.githubusercontent.com/76892271/199292094-f65fc334-2517-4196-b522-ce7be08b0fc7.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/76892271/199292094-f65fc334-2517-4196-b522-ce7be08b0fc7.gif"/>
 
 ## Lane Detection
 
-<img width="80%" src="https://user-images.githubusercontent.com/76892271/199279287-ab01ad56-7fa9-446a-921c-c594c4b437fa.gif"/>
+<img width="60%" src="https://user-images.githubusercontent.com/76892271/199279287-ab01ad56-7fa9-446a-921c-c594c4b437fa.gif"/>
