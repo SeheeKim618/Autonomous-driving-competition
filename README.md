@@ -4,10 +4,10 @@
 
 
 ## Driver Behavioral Cloning
-
+We developed a driver behavioural cloning model using CNN for end-to-end self-driving.
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199296199-8114c478-ceb9-4fb4-8013-bfd541b3deda.gif"/>
 
 ## Lane Detection
-
+We used Image Processing with OpenCV-Python; tested models in a simulator.
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199293893-637ff74d-2473-4352-9126-08ec31fdb312.gif"/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199279287-ab01ad56-7fa9-446a-921c-c594c4b437fa.gif"/>
