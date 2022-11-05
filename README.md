@@ -1,5 +1,5 @@
 # Autonomous-driving-competition
-There is a lot of source code that makes up this project, including sensor fusion, controller and so on, but only the code below will be open.  
+There are many code files that make up this project, including sensor fusion, controller and so on, but only the code below will be open.  
 ### Competition Track
 <img width="80%" src="https://user-images.githubusercontent.com/76892271/199283421-5a9233ad-ec6b-4346-a419-fb804e7519e9.png"/>
 
