@@ -11,7 +11,7 @@ We developed a driver behavioural cloning model using CNN for end-to-end self-dr
 
 
 ## Lane Detection
-We used image processing methods with OpenCV-Python for lane detection.  
+We performed image processing with OpenCV-Python for lane detection.  
  <br/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199293893-637ff74d-2473-4352-9126-08ec31fdb312.gif"/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199279287-ab01ad56-7fa9-446a-921c-c594c4b437fa.gif"/>
