@@ -20,6 +20,12 @@ The RC car is named Xycar X model, a high speed racing robot powered by NVIDIA A
   <img src="figures/figure2.png" width="70%"/>
 </p>
 
+### Software
+* ** Ubuntu 20.04
+* ** ROS Melodic
+* ** CUDA 10
+* ** CUDNN
+* ** OpenCV
 
 ## 1. High Speed Driving
 
