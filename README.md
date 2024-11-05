@@ -17,7 +17,7 @@ The RC car is named Xycar X model, a high speed racing robot powered by NVIDIA A
 </p>
 
 
-## High Speed Driving
+## 1. High Speed Driving
 
 ### Driver Behavioral Cloning
 We developed a driver behavioural cloning model using CNN and LSTM for end-to-end self-driving in a simulated environment. 
@@ -31,6 +31,6 @@ We developed a lane detection algorithm with OpenCV-Python.
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199293893-637ff74d-2473-4352-9126-08ec31fdb312.gif"/>
 <img width="60%" src="https://user-images.githubusercontent.com/76892271/199279287-ab01ad56-7fa9-446a-921c-c594c4b437fa.gif"/>
 
-## Mission Driving
+## 2. Mission Driving
 
 
