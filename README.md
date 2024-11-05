@@ -17,7 +17,7 @@ The RC car is named Xycar X model, a high speed racing robot powered by NVIDIA A
 </p>
 
 <p align="center">
-  <img src="figures/figure2.png" width="60%"/>
+  <img src="figures/figure2.png" width="70%"/>
 </p>
 
 
