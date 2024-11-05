@@ -1,7 +1,7 @@
 # Autonomous Driving Competition
 Competition Task: A RC car has to do 3 long loops of high speed driving to keep the lane and a loop of various missions completion in a row without human intervention.
 
-There are many code files that make up this project, but only the code below will be open.
+There are many code files that make up this project from perception to planning, but only the code below will be open.
 
 ### Competition Track
 <p align="center">
