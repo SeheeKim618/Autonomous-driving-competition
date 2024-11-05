@@ -1,4 +1,6 @@
 # Autonomous Driving Competition
+Competition Task: A RC car has to do 3 long loops of high speed driving to keep the lane and a loop of various missions completion in a row without human intervention.
+
 There are many code files that make up this project, including sensor fusion, controller and so on, but only the code below will be open.  
 ### Competition Track
 <img width="80%" src="https://user-images.githubusercontent.com/76892271/199283421-5a9233ad-ec6b-4346-a419-fb804e7519e9.png"/>
