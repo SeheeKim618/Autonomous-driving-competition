@@ -31,8 +31,10 @@ The RC car is named Xycar X model, a high speed racing robot powered by NVIDIA A
 
 ### Driver Behavioral Cloning
 We developed a driver behavioural cloning model using CNN and LSTM for end-to-end self-driving in a simulated environment. 
- <br/>
-<img width="60%" src="https://user-images.githubusercontent.com/76892271/199296199-8114c478-ceb9-4fb4-8013-bfd541b3deda.gif"/>
+<p align="center">
+  <img width="60%" src="https://user-images.githubusercontent.com/76892271/199296199-8114c478-ceb9-4fb4-8013-bfd541b3deda.gif"/>
+</p>
+
 
 
 ### Lane Detection
