@@ -8,7 +8,11 @@ There are many code files that make up this project, but only the code below wil
 
 ### Hardware
 The RC car is named Xycar X model, a high speed racing robot powered by NVIDIA AGX Xavier.
-<img src="figures/figure1.png" width="70%"/>
+
+<p align="center">
+  <img src="figures/figure1.png" width="65%"/>
+</p>
+
 
 ## High Speed Driving
 
